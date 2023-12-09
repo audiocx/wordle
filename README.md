@@ -1,4 +1,4 @@
-# wordle
+# Wordle
 The famous Wordle game implemented with React
 
 ## Execution guide:
